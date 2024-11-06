@@ -1,4 +1,4 @@
-PS C:\Users\CHARU\Desktop\mern-stack\learning\backend\Mongo-db> use employees
+PS C:\Users\ARSH\Desktop\mern-stack\learning\backend\Mongo-db> use employees
 use : The term 'use' is not recognized as the name of a cmdlet, 
 function, script file, or operable program. Check the spelling 
 of the name, or if a path was included, verify that the path is 
